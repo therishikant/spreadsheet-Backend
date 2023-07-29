@@ -1,0 +1,12 @@
+1.Write this in a language of your choice
+2.Mention edge cases and other situations you need to handle
+
+1. Language of choice is Java
+
+2 Edge cases
+2.1 CellId exist
+2.2 Valid cell id entered
+2.3 CellId not null
+2.4 Valid expression
+2.5 try to add Long or Double value
+2.6 Try to sum(+) invalid cellId
